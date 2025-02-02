@@ -2,7 +2,7 @@
 ## Project Overview
 
 **Project Title**:LEGO Dashboard 
- **Visualization Tool**: Power BI
+ **Visualization Tool**: `Power BI`
 
 The project involves making up an interactive LEGO Dashboard through Ms Excel and Power BI.
 
